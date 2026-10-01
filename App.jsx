@@ -55,6 +55,7 @@ function App() {
           <div className="card">Lógica de Programação</div>
           <div className="card">Desenvolvimento Web</div>
           <div className="card">Banco de Dados</div>
+          <div className="card">Modelagam de Sistemas</div>
        </div>
       </section>
 
